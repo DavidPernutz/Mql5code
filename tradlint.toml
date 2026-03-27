@@ -1,0 +1,9 @@
+[general]
+fail_on = "error"
+default_format = "text"
+recursive = false
+
+[rules]
+# Example:
+# MQL008 = "warning"
+# MQL009 = "off"
