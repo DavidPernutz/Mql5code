@@ -116,3 +116,7 @@ def main() -> None:
         raise SystemExit(cmd_explain(args))
 
     raise SystemExit(2)
+
+
+if __name__ == "__main__":
+    main()
